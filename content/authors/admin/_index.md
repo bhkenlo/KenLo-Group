@@ -2,8 +2,7 @@
 title: Kenneth Kam-Wing Lo 羅錦榮
 role: Professor
 avatar_filename: ken-lo.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - Artificial Intelligence
   - Computational Linguistics
