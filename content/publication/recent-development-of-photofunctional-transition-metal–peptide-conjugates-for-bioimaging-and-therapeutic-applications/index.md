@@ -25,7 +25,7 @@ abstract: Peptides are attractive for diagnostic and therapeutic applications
   localization, and (photo)cytotoxic activity of the conjugates. Our perspective
   on the current challenges and future development of photofunctional transition
   metal−peptide conjugates as diagnostic and therapeutic tools is also provided.
-draft: false
+draft: true
 featured: true
 image:
   filename: ejic202200704.jpg
