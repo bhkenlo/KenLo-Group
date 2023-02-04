@@ -8,7 +8,7 @@ authors:
   - L. Huang
   - P. K.-K. Leung and K. K.-W. Lo
 doi: https://doi.org/10.1002/ejic.202200455
-publication: European Journal of Inorganic Chemistry, 2022, e202200455
+publication: "*European Journal of Inorganic Chemistry*, **2022**, e202200455"
 publication_short: ""
 abstract: Peptides are attractive for diagnostic and therapeutic applications
   due to their small molecular size, ease of synthesis and chemical
@@ -31,5 +31,6 @@ image:
   filename: ejic202200704.jpg
   focal_point: Smart
   preview_only: false
-date: 2023-02-04T19:01:24.624Z
+date: 2022-02-04T19:23:00.000Z
 ---
+02/05/2022 3:23 AM
